@@ -98,7 +98,7 @@ const { products, addItem } = useContext(ProductContext);
 
 - Artık "Products" bileşenimizi "Context API" kullanacak şekilde yeniden düzenlediğimize göre, "Carts" ve "Navigation" Bileşenlerimizi de "Context API" kullanacak şekilde yeniden düzenleyelim.
 
-- Context klasörümüzde "CartContext.js" adlı yeni bir dosya oluşturun, bu context "ShoppingCart" ve "Navigation" bileşenimiz tarafından kullanılacaktır.
+- Context klasörümüzde "CartContext.js" adlı yeni bir dosya oluşturun, bu context "ShoppingCart" ve "Navigation" bileşenimiz tarafından kullanılacaktır.0
 
 - Yeni "CartContext" dosyamızın içinde "createContext"i içe aktarın ve "CartContext" adlı yeni bir içerik oluşturun.
 
